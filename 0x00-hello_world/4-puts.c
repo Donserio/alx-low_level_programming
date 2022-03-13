@@ -4,16 +4,15 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
-
 int main(void)
 {
-        // initializing strings
-        char str1[] = "Programming is like building a multilingual puzzle\n";
+	char str1[52];
 
-        // writing to stdout
-        puts(str1);
+	strcpy(str1, "\"Programming is like building a multilingual puzzle");
 
-        return (0);
+	puts(str1);
+
+	return (0);
 }
