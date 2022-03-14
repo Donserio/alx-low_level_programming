@@ -4,11 +4,9 @@
 
 /**
  * main - Entry point
- *
  * Return: Always return 0
  * A Program to the last digit of the number stored in the variable n
  */
-
 int main(void)
 {
 	int n;
