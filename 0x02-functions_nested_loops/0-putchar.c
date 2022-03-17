@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ *main - A program to print _putchar
+ *Return an integer 0 always
+ */
 
 int main(void)
 {	_putchar('_');
