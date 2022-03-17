@@ -1,2 +1,4 @@
-#include <stdio.h>
+/** functions and prototype
+ */
 int _putchar(char c);
+return (0);
